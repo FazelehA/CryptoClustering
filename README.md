@@ -1,3 +1,5 @@
+#Cryptocurrencies 
+
 This challenge looks to predict if crytocurrencies are affected by 24-hour or 7-day price changes using Python and unsupervised learning. Cryptocurrencies are clustered with K-means using the original data provided and then the clusters are further optimised using principle component analysis (PCA).
 
 ![cryptocurrencies](https://user-images.githubusercontent.com/114575703/225756801-34191ff9-9daf-4d3c-8f39-b2457ae958aa.png)
